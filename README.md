@@ -1,1 +1,1 @@
-This is a virtual exploit on a theoretical virtual network. It was designed for a class project to demonstrate the technical capabilities of the cyber security team. This is not intended to be a POC; authors for the POCs are avaialable in the referenced CVEs.
+This is a virtual exploit on a theoretical virtual network. It was designed for a class project to demonstrate the technical capabilities of the cyber security team. This is not intended to be a POC; authors for the POCs are available in the referenced CVEs.
