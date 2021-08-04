@@ -1,2 +1,2 @@
-Resume avaiable upon request.
+Resume available upon request.
 Graduate of the University of San Diego Cyber Bootcamp, San Diego, CA in July 2021. Instructed by Fullstack Academy, Certificate in Cyber Security  ● Certifications: CompTIA CySA+ and Splunk; all pending early August 2021  ● Proficient: Kali Linux, HTML3, Windows ● Knowledgeable: Splunk, Nessus, SNORT, Python 3, Networking Fundamentals, Metasploit, Wireshark, Netcat, NMAP, Dirbuster, Nikto, Virtual Machines, John, iptables, penetration testing, SIEM tools, Microsoft Windows 2019 server, network fundamentals
