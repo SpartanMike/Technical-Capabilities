@@ -1,1 +1,4 @@
-This is a virtual exploit on a theoretical virtual network. It was designed for a class project to demonstrate the technical capabilities of the cyber security team. This is not intended to be a POC; authors for the POCs are available in the referenced CVEs.
+Graduate of the University of San Diego Cyber Bootcamp, San Diego, CA  in July 2021. Managed and instructed by Fullstack Academy, Certificate in Cyber Security
+●	Proficient: Kali Linux, HTML3, Windows
+●	Knowledgeable: Splunk, Nessus, SNORT, Python 3, Networking Fundamentals, Metasploit, Wireshark, Netcat, NMAP, Dirbuster, Nikto, Virtual Machines, John, iptables, penetration testing, SIEM tools, Microsoft Windows 2019 server, network fundamentals
+●	Certifications: Splunk and CompTIA CySA+; all pending early August 2021
